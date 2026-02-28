@@ -1,6 +1,5 @@
 # Visual Editor Demo
 
-<video width="640" controls>
-  <source src="visual-editor .mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/5ee47bdd-0661-4ea1-8720-bdfdf9c93f37
+
