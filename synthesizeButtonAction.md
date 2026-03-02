@@ -35,4 +35,4 @@ const verilog = generateVerilogFromFSM(fsmStore.currentFSM)   // Layer 6
 ### Layer 3 - minimizeFSM() : [Code](https://github.com/Me-Priyank/cv-frontend-vue/blob/Priyank-fsm/src/simulator/src/fsm/stateMinimizer.ts#L296-L312)
 ### Layer 4 - synthesizer function : [Code](https://github.com/Me-Priyank/cv-frontend-vue/blob/Priyank-fsm/src/simulator/src/fsm/circuitGenerator.ts#L649-L680)
 ### Layer 5 - generateCircuitVerseJSON() : [Code](https://github.com/Me-Priyank/cv-frontend-vue/blob/Priyank-fsm/src/simulator/src/fsm/circuitGenerator.ts#L174-L188)
-### Layer 6 - Export Verilog : [Code](https://github.com/Me-Priyank/cv-frontend-vue/blob/Priyank-fsm/src/simulator/src/fsm/fsmSynthesizer.ts@L345-L459)
+### Layer 6 - loadScope() : [Code](https://github.com/Me-Priyank/cv-frontend-vue/blob/Priyank-fsm/src/simulator/src/fsm/fsmSynthesizer.ts@L345-L459)
